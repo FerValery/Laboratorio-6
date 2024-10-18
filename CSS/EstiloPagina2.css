@@ -1,0 +1,36 @@
+header {
+    background-color: #2fff82b1;
+    color: #fff;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 20px; /* Ajusta el margen izquierdo según tus preferencias */
+}
+
+.menu {
+    margin-right: 20px; /* Ajusta el margen derecho según tus preferencias */
+}
+
+.menu a {
+    text-decoration: none;
+    color: #fff;
+    margin-left: 20px;
+    font-size: 18px; /* Ajusta el tamaño del texto según tus preferencias */
+}
+
+.contenido {
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+h1 {
+    margin-left: 30px;
+}
